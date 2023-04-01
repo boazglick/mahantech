@@ -1,5 +1,5 @@
 {
-  "baseUrl": "mahantech.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/mahantech",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
